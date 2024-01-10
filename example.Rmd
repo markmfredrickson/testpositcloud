@@ -16,3 +16,10 @@ library(tidyverse)
 sessionInfo()
 ```
 
+## Another section
+
+```{r}
+2 * pi # circumference of unit circle 
+```
+
+
